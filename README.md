@@ -1,2 +1,2 @@
 # Scanner-Test
-Android App for testing RFID scanner which running using SPP protocol
+Android App for testing RFID scanner which running using Blutooth SPP protocol to transfer the data
